@@ -5,6 +5,7 @@ ruby "3.1.2"
 
 gem "rails", "~> 7.0.4"
 
+
 gem 'image_processing'
 gem 'mini_magick'
 gem 'active_storage_validations'
