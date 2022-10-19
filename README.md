@@ -1,24 +1,18 @@
-# README
+# Ruby on Rails Tutorial sample application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is tutorial project, The main purpose of this project 
+that i interested in ruby validations and user authentication.
 
-Things you may want to cover:
 
-* Ruby version
+# Developed By "Ruby on Rails Tutorial Michael Hartl book 6th edition"
 
-* System dependencies
 
-* Configuration
+# Useful topics
 
-* Database creation
+* Authentication
 
-* Database initialization
+* Validations
 
-* How to run the test suite
+* Test Driven Development (TDD)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Deploying using heroku
